@@ -58,7 +58,7 @@
         <imageio-jpeg.version>3.3.2</imageio-jpeg.version>
         <ojdbc14.version>11.2.0.4</ojdbc14.version>
         <informix.version>4.10.9</informix.version>
-        <mysql.version>5.1.21</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <slf4j.version>1.6.1</slf4j.version>
         <janino.version>3.0.12</janino.version>
         <commons.httpclient.version>3.1</commons.httpclient.version>
