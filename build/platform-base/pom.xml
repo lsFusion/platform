@@ -14,7 +14,7 @@
 
     <properties>
         <!-- DEPENDENCY VERSIONS -->
-        <junit.version>4.10</junit.version>
+        <junit.version>4.13.1</junit.version>
         <log4j.version>1.2.17</log4j.version>
         <log4j.extras.version>1.1</log4j.extras.version>
         <xbasej.version>1.0.1</xbasej.version>
