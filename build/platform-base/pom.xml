@@ -79,7 +79,7 @@
         <url.rewriter.version>4.0.3</url.rewriter.version>
 
         <httpcomponents.httpmime.version>4.5.7</httpcomponents.httpmime.version>
-        <httpcomponents.httpclient.version>4.5.7</httpcomponents.httpclient.version>
+        <httpcomponents.httpclient.version>4.5.13</httpcomponents.httpclient.version>
         <httpcomponents.httpclient-android.version>4.3.5.1</httpcomponents.httpclient-android.version>
 
         <!-- note: gwt jar-ки пропатчены, поэтому нельзя просто поменять эту версию на более новую, нужно сначала перенакатить патч... см. описание в jar-ках  -->
